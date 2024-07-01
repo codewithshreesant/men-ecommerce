@@ -1,0 +1,161 @@
+[
+	{
+		"id": "firstpant",
+		"name": "puma",
+		"price": 1174,
+		"description": "Girls Relaxed-Fit Track Pant",
+		"img": "https://th.bing.com/th/id/R.870521b0f56187b06114aeda8bc17619?rik=sYN9VixtIhUyCA&pid=ImgRaw&r=0"
+	},
+	{
+		"id": "secondpant",
+		"name": "Sangria",
+		"price": 1241,
+		"description": "Boys Embroidered Kurta Set",
+		"img": "https://www.bing.com/th?id=OIP.djJPSuQIQ_X3Dee_H0_vDAHaLG&w=146&h=219&c=8&rs=1&qlt=90&o=6&dpr=1.1&pid=3.1&rm=2"
+	},
+	{
+		"id": "thirdpant",
+		"name": "Renz",
+		"price": 749,
+		"description": "Checked Cotton Lounge Pant",
+		"img": "https://th.bing.com/th/id/OIP.mGc8_bD263GfhNE0cYagegHaJ4?rs=1&pid=ImgDetMain"
+	},
+	{
+		"id": "fourthpant",
+		"name": "Jockey",
+		"price": 949,
+		"description": "Women Checked Lounge Pant",
+		"img": "https://th.bing.com/th/id/OIP.f0OvnF114V_yEL-q8sWgcgHaHa?rs=1&pid=ImgDetMain"
+	},
+	{
+		"id": "fifthpant",
+		"name": "Damensch",
+		"price": 1691,
+		"description": "Men Cotton-Linen Lounge Pant",
+		"img": "https://th.bing.com/th/id/R.ac92dff8225b2c437b79f3e04f1db182?rik=aLa9KN1%2blWoUGw&pid=ImgRaw&r=0"
+	},
+	{
+		"id": "sixthpant",
+		"name": "Octave",
+		"price": 1049,
+		"description": "Boys Printed Track Pant",
+		"img": "https://th.bing.com/th/id/OIP.jsrIDTfAv7XySfBTIeZJDQHaJ4?w=195&h=260&c=7&r=0&o=5&dpr=1.1&pid=1.7"
+	},
+	{
+		"id": "seventhpant",
+		"name": "Beyoung",
+		"price": 899,
+		"description": "Men Loose-fit Lounge pant",
+		"img": "https://th.bing.com/th/id/OIP.TC8cCVdNEFtjNPmKC_ADagHaJ4?rs=1&pid=ImgDetMain"
+	},
+	{
+		"id": "eighthpant",
+		"name": "max",
+		"price": 499,
+		"description": "Pure Cotton Lounge Pant",
+		"img": "https://th.bing.com/th/id/OIP.XpIezo9HSYYcV_Zrpl2Z_AHaPC?rs=1&pid=ImgDetMain"
+	},
+	{
+		"id": "ninethpant",
+		"name": "Sketchers",
+		"price": 3399,
+		"description": "Moisture Wicking Track Pants",
+		"img": "https://th.bing.com/th/id/OIP.4FH24FWxpY8kWdmAY9IHDQHaIp?rs=1&pid=ImgDetMain"
+	},
+	{
+		"id": "tenthpant",
+		"name": "Lyra",
+		"price": 556,
+		"description": "Women Cotton Lounge Pant",
+		"img": "https://th.bing.com/th/id/OIP.hufwKfTdjaR3VXAV7OGP-wAAAA?w=189&h=329&c=7&r=0&o=5&dpr=1.1&pid=1.7"
+	},
+	{
+		"id": "eleventhpant",
+		"name": "Rovars",
+		"price": 749,
+		"description": "Women Printed Pant Suit",
+		"img": "https://5.imimg.com/data5/SELLER/Default/2021/4/EX/PD/GB/30053181/rovars-compression-pants-tights-men-s-legging-500x500.jpg"
+	},
+	{
+		"id": "twelvethpant",
+		"name": "Dpassion",
+		"price": 579,
+		"description": "Men Regular-Fit Track pant",
+		"img": "https://th.bing.com/th/id/OIP.LNNT3Gc_XQk0TH7GJ03VogHaJ4?rs=1&pid=ImgDetMain"
+	},
+	{
+		"id": "thirteenthpant",
+		"name": "Red Flame",
+		"price": 1299,
+		"description": "Men Mid-Rise Travel Pant",
+		"img": "https://m.media-amazon.com/images/I/61rd7kUT76L._AC_UX522_.jpg"
+	},
+	{
+		"id": "fourteenthpant",
+		"name": "Dixcy scott",
+		"price": 256,
+		"description": "Boys Cotton Track Pant",
+		"img": "https://th.bing.com/th/id/OIP.OvjAiywThdxp2hNAPon6DQHaJ4?rs=1&pid=ImgDetMain"
+	},
+	{
+		"id": "fifteenthpant",
+		"name": "Griffel",
+		"price": 1799,
+		"description": "Oversized-Fit Cotton Co-Ords",
+		"img": "https://th.bing.com/th/id/OIP.k5ZER7BYa2CfBA6V25HUqwHaJ4?rs=1&pid=ImgDetMain"
+	},
+	{
+		"id": "sixteenthpant",
+		"name": "DENNISON",
+		"price": 1799,
+		"description": "Men Baggy Fit Cotton Jeans",
+		"img": "https://th.bing.com/th/id/OIP.X3dNrLNrFP2ZVXAaRZpJwAHaJ4?rs=1&pid=ImgDetMain"
+	},
+	{
+		"id": "seventeenthpant",
+		"name": "Bene Kieed",
+		"price": 999,
+		"description": "Men Relaxed-Fit Jeans",
+		"img": "https://th.bing.com/th/id/OIP.AWfrEXamHCjz3IUe6SzeowHaLH?w=195&h=292&c=7&r=0&o=5&dpr=1.1&pid=1.7"
+	},
+	{
+		"id": "eighteenthpant",
+		"name": "Hubberholme",
+		"price": 1469,
+		"description": "Men Cotton Relaxed-Fit",
+		"img": "https://th.bing.com/th/id/OIP.gGyxVJoxB1tPIvq7AsG-zAHaJ4?w=195&h=260&c=7&r=0&o=5&dpr=1.1&pid=1.7"
+	},
+	{
+		"id": "nineteenthpant",
+		"name": "Thomas Scott",
+		"price": 819,
+		"description": "Men Relaxed-Fit Cotton Jeans",
+		"img": "https://th.bing.com/th/id/OIP.dm_krT_kowv08DcnQ1lxhQHaJ4?w=195&h=260&c=7&r=0&o=5&dpr=1.1&pid=1.7"
+	},
+	{
+		"id": "Twenteenthpant",
+		"name": "Style Quetient",
+		"price": 1289,
+		"description": "Men Cotton Cargo Jeans",
+		"img": "https://th.bing.com/th/id/OIP.Jy3NrKG2ykI01AQHVsfjXwHaJ3?rs=1&pid=ImgDetMain"
+	},
+	{
+		"id": "Twentyfirstpant",
+		"name": "Bene Kieed",
+		"price": 999,
+		"description": "Relaxed-Fit Denim Jeans",
+		"img": "https://www.bing.com/th?id=OIP.78fH0epUsgbCSCNNzhWdWAHaJ4&w=150&h=200&c=8&rs=1&qlt=90&o=6&dpr=1.1&pid=3.1&rm=2"
+	},
+	{
+		"id": "Twentysecondpant",
+		"name": "Urbano Fashion",
+		"price": 850,
+		"description": "Men Relaxed Fit Jeans",
+		"img": "https://th.bing.com/th/id/OIP.I5hOk8fPFqXP46qPtgSu7QHaHa?rs=1&pid=ImgDetMain"
+	}
+]
+
+
+
+
+
