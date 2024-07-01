@@ -10,6 +10,9 @@ const PORT=process.env.PORT || 5000;
 
 dbs();
 
+app.get('/', (req,res)=>{
+	res.send("This is home page");
+})
 app.get('/jeans', getdatas);
 
 app.listen(PORT, ()=>{
