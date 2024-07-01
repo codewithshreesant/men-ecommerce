@@ -4,9 +4,12 @@ const dotenv=require('dotenv');
 const dbs=require('./Database/connect');
 const input=require('./controller/datainput.js');
 const getdatas=require('./controller/getinput.js')
+const cors=require('cors')
 
 dotenv.config();
 const PORT=process.env.PORT || 3000;
+
+app.use(cors());
 
 dbs();
 
