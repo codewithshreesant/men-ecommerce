@@ -6,7 +6,7 @@ const input=require('./controller/datainput.js');
 const getdatas=require('./controller/getinput.js')
 
 dotenv.config();
-const PORT=process.env.PORT || 5000;
+const PORT=process.env.PORT || 3000;
 
 dbs();
 
